@@ -1,7 +1,10 @@
 # Web-Fetcher
-**A simple tool for exploring websites on the web. Can be used to extract image titles or display all available pages. Uses Python and its well-known libraries such as Requests and Beautiful Soup.**
-<br>![Screenshot 2024-06-02 174015](https://github.com/rootL0r/Web-Fetcher/assets/157466888/d25130a3-f179-411f-90a4-305c9d7f26ea)
+**a Simple python program For Bug Hunters Or Penetration Tester's**<br>
 
+* Fetch URLs of all images from the website
+* List all pages on the website
+ 
+<br>![image](https://github.com/rootL0r/Web-Fetcher/assets/157466888/c01de2a9-52e1-4fff-aba8-52d5b0cc9edf)
 
 
 
