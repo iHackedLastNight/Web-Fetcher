@@ -10,7 +10,7 @@
 ```bash
 git clone https://github.com/rootL0r/Web-Fetcher.git
 
-cd WebFetcher
+cd Web-Fetcher
 
 pip3 install -r requirements.txt
 
