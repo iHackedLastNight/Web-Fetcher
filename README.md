@@ -16,5 +16,6 @@ pip3 install -r requirements.txt
 
 python3 WebFetcher.py
 ```
-That's it.<br>
+
+# That's it.<br>
 ![260991972-1c2f2939-74c9-4612-af6f-fe2332626bc1](https://github.com/rootL0r/Web-Fetcher/assets/157466888/69d74de6-0a37-413e-ac78-c6ddc0859b18)
