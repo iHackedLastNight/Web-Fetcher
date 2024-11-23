@@ -11,7 +11,7 @@
 
 # INSTALLATION
 ```bash
-git clone https://github.com/rootL0r/Web-Fetcher.git
+git clone https://github.com/iHackedLastNight/Web-Fetcher.git
 
 cd Web-Fetcher
 
